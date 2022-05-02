@@ -1,0 +1,9 @@
+unit-1-language-preliminaries/239
+unit-2-introduction-to-aspnet/240
+unit-3-http-and-aspnet-core/241
+unit-4-creating-aspnet-core-mvc-applications/242
+unit-5-working-with-database/243
+unit-6-state-management-on-aspnet-core-application/244
+unit-7-client-side-development-in-aspnet-core/245
+unit-8-securing-in-aspnet-core-application/246
+unit-9-hosting-and-deploying-aspnet-core-application/247
